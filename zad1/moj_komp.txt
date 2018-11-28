@@ -1,4 +1,4 @@
-pojemnosc dysku: 118 GB
-ilosc pamieci RAM: 8.00 GB
-rodzaj i predkosc procesora:Intel(R) Core(TM) i5-7200U CPU@ 2.50 HZ 2.71 GHZ
+pojemnoœæ dysku: 118 GB
+iloœæ pamiêci RAM: 8.00 GB
+rodzaj i prêdkoœæ procesora:Intel(R) Core(TM) i5-7200U CPU@ 2.50 HZ 2.71 GHZ
 czy system jest 32 czy 64-biotowy: 64 bitowy
